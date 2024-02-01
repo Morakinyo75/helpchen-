@@ -1,0 +1,20 @@
+1. git init lets you initialize Git in your folder
+2. 
+3. git reset - use this command to return the entire working tree to the last committed state
+4. git fetch - gathers any commit from the target branch that does not exist in our current branch and stores it in our local repository
+5. git merge - use this to combine multiple sequences of commits into one unified history
+6. git revert - use this to undo a command
+7. git clone ssh://git@github.com/[username]/[repository-name].git - Clone private repository
+8. git clone repo_url - Clone public repository
+9. git stash - Stash changes in a dirty working directory
+10. git checkout - Switch to the branch last checked out
+11. git log - View changes made
+12. git config --global user.name "your_username" - Set globally Username
+13. git config --global user.email "your_email_address@example.com" - Set globally Email id
+14. git pull - Update local repository to the newest commit
+15. git merge [branch name]	- Merge a branch into the active branch
+16. git status - checks status
+17. git push -u origin main - pushes the code to GitHub
+18. git remote add origin - finally connects the local folder to the repository on GitHub. It is followed by the repository's link
+19. git branch - creates a new branch which is a new version of the repository as it appears when added, and -M to move the name to main
+20. git commit - stores the added files. Use -m for message followed by the actual message
