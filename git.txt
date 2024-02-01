@@ -1,0 +1,11 @@
+How to install git on a local machine
+For windows OS;
+1. Search for git for windows
+2. Pick the version of windows you have currently on your system either 32 bits or 64 bits
+3. Then you wait until it has fully been downloaded and then you install it on your syustem
+
+For Mac OS,
+1. You can either open your command prompt to install git using the command '$ brew install git' or you can click on the binary installer to install git on your OS
+
+For linux OS,
+1. You can either download a tarball from source of use the command 'apt-get install git' and then you put in your system password and it will automatically install git on the linux OS
